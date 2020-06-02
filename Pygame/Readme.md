@@ -1,4 +1,4 @@
-##Tiles
+# Tiles
 
 Just a simple match making game,
 Based on Pygame
