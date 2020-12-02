@@ -4,9 +4,9 @@ import cv2
 
 
 #Creating local Cascade classifiers !
-faceCascade = cv2.CascadeClassifier('haarcascade_profileface.xml')
+faceCascade = cv2.CascadeClassifier('F:\GitHub Repositories\Projects\OpenCV\haarcascade\haarcascade_profileface.xml')
 
-eyeCascade = cv2.CascadeClassifier('haarcascade_eye.xml')
+eyeCascade = cv2.CascadeClassifier('F:\GitHub Repositories\Projects\OpenCV\haarcascade\haarcascade_eye.xml')
 
 #Assigning the HARDWARE(WEBCAMERA) to the program !!
 video_capture=cv2.VideoCapture(0)

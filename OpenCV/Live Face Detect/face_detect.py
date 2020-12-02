@@ -6,7 +6,7 @@ path=input("enter Image path: ")
 image = cv2.imread(path)
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
-face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+face_cascade = cv2.CascadeClassifier('F:\GitHub Repositories\Projects\OpenCV\Haarcascade\haarcascade_frontalface_default.xml')
 
 
 

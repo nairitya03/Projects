@@ -6,7 +6,7 @@ def detect():
 
 
 # Create the haar cascade
-    faceCascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
+    faceCascade = cv2.CascadeClassifier('F:\GitHub Repositories\Projects\OpenCV\Haarcascade\haarcascade_frontalface_default.xml')
 
 # Read the image
     image = cv2.imread(img_path)
