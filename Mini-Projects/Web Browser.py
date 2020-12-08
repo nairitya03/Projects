@@ -1,4 +1,5 @@
-import webbrowser ##import webbrowser library 
+##import webbrowser library 
+import webbrowser
 
 
 ##define a funtion for switching b/w Search Engines

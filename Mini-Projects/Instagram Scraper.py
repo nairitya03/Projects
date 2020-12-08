@@ -30,6 +30,5 @@ while (i<time_loop):
 
 print ("\n\n",data)
 
-
-
+time.sleep(20)
   
