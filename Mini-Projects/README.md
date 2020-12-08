@@ -1,4 +1,5 @@
-# Scrap-Codes
-All My Scrap Codes Goes Here!!
-~Algorithms 
+##Scrap-Codes
+
+~New Mini-Projects
 ~TimePass Codes
+All My Scrap Codes Goes Here!!
