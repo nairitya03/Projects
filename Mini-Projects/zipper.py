@@ -79,8 +79,8 @@ def zipper(i):
 num=0
 while num!=1 or num!=2:
     num = int(input ("Enter your Choice !"
-              "\n 1: Compression"
-              "\n 2: Extraction"
+              "\n 1: Archive"
+              "\n 2: Extract"
               "\n >>>"
               ))
     if num==1 or num==2:
