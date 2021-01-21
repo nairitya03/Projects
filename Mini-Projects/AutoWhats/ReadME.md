@@ -1,4 +1,4 @@
-##Installation 
+#Installation 
 To install required modules,go to directory of download and open cmd/terminal there and run the following command
 
 - pip install -r requirement.txt
