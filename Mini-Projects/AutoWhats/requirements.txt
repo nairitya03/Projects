@@ -1,0 +1,6 @@
+pywhatkit
+wikipedia
+beautifulsoup4
+requests
+pyautogui
+Pillow

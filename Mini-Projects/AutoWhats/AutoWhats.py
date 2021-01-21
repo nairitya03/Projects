@@ -2,11 +2,11 @@ import pywhatkit
 
 
 ##enter the mobile number of reciver With contry code
-mobno= input("input you moblie number with country code \n >>")
+mob_no= input("input you moblie number with country code \n >>")
 
 
 ##enter the message to be sent
-message = input( "Enter the message\n >>")
+msg = input( "Enter the message\n >>")
 
 
 ##Time assigning
@@ -14,4 +14,4 @@ hr,mint = map(int, input("Enter Time In HH:MM {24hr format} \n >>").strip().spli
 
 
 ##funtion definition
-pywhatkit.sendwhatmsg(mobno, message, hr, mint, wait_time=3)
+pywhatkit.sendwhatmsg(mob_no, msg, hr, mint)
