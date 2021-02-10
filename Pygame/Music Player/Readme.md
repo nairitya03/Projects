@@ -6,5 +6,5 @@
 - [ ] Working on GUI 
 - [x] Play Pause Option
 - [x] Shuffle Option
-- [x] Add songs to Playlist 
+- [x] Option to add songs to Playlist 
 - [ ] Create a way to include songs in playlist direct from internet
