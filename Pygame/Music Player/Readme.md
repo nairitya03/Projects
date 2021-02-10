@@ -1,5 +1,5 @@
 # Music Player
-### A simple music player with some basic functionalities.
+#### A simple music player with some basic functionalities.
 
 ## Features it Supports as if now.
 
