@@ -1,8 +1,10 @@
 # Music Player
-### A simple music player with some basic functionalities 
+### A simple music player with some basic functionalities.
 
+## Features it Supports as if now.
+
+- [ ] Working on GUI 
 - [x] Play Pause Option
 - [x] Shuffle Option
 - [x] Add somgs to Playlist 
-- [ ] Working on GUI 
-- [ ] looking for way to include more songs in playlist direct from internet
+- [ ] Create a way to include songs in playlist direct from internet
