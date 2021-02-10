@@ -3,7 +3,7 @@
 
 ## Features it Supports as if now.
 
-- [ ] Working on GUI 
+- [ ] Create a GUI 
 - [x] Play Pause Option
 - [x] Shuffle Option
 - [x] Option to add songs to Playlist 
