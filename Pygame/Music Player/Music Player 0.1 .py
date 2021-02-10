@@ -5,19 +5,23 @@ import random
 mix.init()
 
 ## user Song list
-songs = ["Awaara.mp3","Naach.mp3","Taaron.mp3","Vaaste.mp3"]
+songs = ["sample\Drag_me_Down.mp3","sample\Everybody.mp3","sample\Legends_never_die.mp3","sample\Taaron.mp3","sample\Vaaste.mp3"]
 
 ## Sbuffle function to Add shuffle feature in Music Player
 def shuffle():
         choice = input ("Do you want to shuffle the list? y/n ")
         if choice=='y':
-                return random.shuffle(songs)            ##random shuffle of songs
+                
+                 ##random shuffle of songs
+                return random.shuffle(songs)           
         elif choice =='n':
                 pass
 
 ## A Fucntion to start playing playlist
 def play():
-        shuffle()                                       ##shuffle call
+        
+        ## Call Shuffle Funtion
+        shuffle()                                       
         index = 0
         while True:
                 if index<len(songs):
