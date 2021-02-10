@@ -1,7 +1,7 @@
 # Music Player
 #### A simple music player with some basic functionalities.
 
-## Features it Supports as if now.
+### Features it Supports as if now.
 
 - [ ] Create a GUI 
 - [x] Play Pause Option
