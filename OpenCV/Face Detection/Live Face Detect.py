@@ -9,7 +9,7 @@ eyeCascade = cv2.CascadeClassifier('F:\GitHub Repositories\Projects\OpenCV\haarc
 
 #Assigning the HARDWARE(WEBCAMERA) to the program !!
 try:
-    video_capture=cv2.VideoCapture(1)
+    video_capture=cv2.VideoCapture(0)
 
     
     #Creating a Name Format for saving the TEST RESULTS !!

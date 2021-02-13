@@ -1,11 +1,11 @@
 import cv2 
 import numpy as np
 
-body_classifier = cv2.CascadeClassifier('F:\Learning\OpenCV\Haarcascade\haarcascade_car.xml')
+body_classifier = cv2.CascadeClassifier('F:\GitHub Repositories\Projects\OpenCV\Haarcascade\haarcascade_car.xml')
 
 
-video_cap = cv2.VideoCapture('Vehicles.mp4')
-
+video_cap = cv2.VideoCapture('Sample.mp4')
+print("Press ESC to exit...")
 
 while True:
   ret,frame = video_cap.read()

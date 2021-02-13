@@ -2,7 +2,7 @@ import cv2
 
 # Function for detection of face
 def detect():
-    img_path=("sample\nasa.png")
+    img_path=("sample\oned.jpg")
 
 
     # Create the haar cascade
