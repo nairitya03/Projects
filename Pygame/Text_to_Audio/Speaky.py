@@ -7,7 +7,7 @@ def convertToAudio(audioName, input_string):
 
     gtts_obj = gTTS( text= input_string,tld='com',lang='en')
     
-    gtts_obj.save("Audio_Bot-"+ audioName)
+    gtts_obj.save("Speaky-"+ audioName)
     
     print("\nAudio Saved successfully !")
     
@@ -20,7 +20,7 @@ def convertToAudio(audioName, input_string):
     
 if __name__ == '__main__':
 
-    udioFilename = input("\nName for the Audio file >> ")+".mp3"
+    audioFilename = input("\nName for the Audio file >> ")+".mp3"
     
     inputString = input("\nString to be saved as audio >> ")
         
