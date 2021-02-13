@@ -1,6 +1,5 @@
 # Introduction  
-### Computer vision is a field of artificial intelligence that trains computers to interpret and understand the visual world. 
-Using digital images from cameras and videos and deep learning models, machines can accurately identify and classify objects — and then react to what they “see.” 
+Computer vision is a field of artificial intelligence that trains computers to interpret and understand the visual world. Using digital images from cameras and videos and deep learning models, machines can accurately identify and classify objects — and then react to what they “see.” 
 Computer vision works in three basic steps:
 - **Acquiring an image** -  Images, even large sets, can be acquired in real-time through video, photos or 3D technology for analysis.
 - **Processing the image** - Deep learning models automate much of this process, but the models are often trained by first being fed thousands of labeled or pre-identified images.
