@@ -18,7 +18,7 @@ This Repo holds few of My Projects based on Computer Vision.
 
 - Download [Python 3](https://python.org/download/).
 - ``` Git Clone https://github.com/nairitya03/Projects/tree/master/OpenCV/ ```. 
-- Inside downloaded directory open CMD / Shell and run following commands ``` Python3 -m pip install -r requirement.txt ```
+- Inside downloaded directory open CMD / Shell and run following commands ``` python3 -m pip install -r requirements.txt ```
 
 #### Usage 
 
