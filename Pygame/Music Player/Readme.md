@@ -10,5 +10,6 @@
 - [ ] Create a way to include songs in playlist direct from internet
 
 ### How to Run
+- Git Clone https://github.com/nairitya03/Projects/tree/master/Pygame/Music%20Player
 - Open Command Promt / Shell and run ``` Python3 -m pip install -r requirements.txt``` .
 - Once installed run the command in shell ``` python3 Music Player 1.2 .py``` .
