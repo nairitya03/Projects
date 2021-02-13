@@ -2,20 +2,21 @@ import cv2
 
 # Function for detection of face
 def detect():
-    img_path=('nasa.png')
+    img_path=("sample\nasa.png")
 
 
-# Create the haar cascade
-    faceCascade = cv2.CascadeClassifier('F:\GitHub Repositories\Projects\OpenCV\Haarcascade\haarcascade_frontalface_default.xml')
+    # Create the haar cascade
+    faceCascade = cv2.CascadeClassifier("F:\GitHub Repositories\Projects\OpenCV\Haarcascade\haarcascade_frontalface_default.xml")
 
-# Read the image
+    # Read the image
     image = cv2.imread(img_path)
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
-# Detect faces in the image
-# faces = faceCascade.detectMultiScale(gray,1.5,4)
+    # Detect faces in the image
+    
+    # faces = faceCascade.detectMultiScale(gray,1.5,4)
 
-# Draw a rectangle around the faces
+    # Draw a rectangle around the faces
     for (x, y, w, h) in faceCascade.detectMultiScale(gray,1.3,4):
         cv2.rectangle(image, (x, y), (x+w, y+h), (0, 255, 0), 2)
 

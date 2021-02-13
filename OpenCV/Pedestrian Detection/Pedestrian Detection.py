@@ -3,10 +3,10 @@ import numpy as np
 
 
 
-body_classifier = cv2.CascadeClassifier('F:\Learning\OpenCV\Haarcascade\haarcascade_fullbody.xml')
+body_classifier = cv2.CascadeClassifier('F:/GitHub Repositories/Projects/OpenCV/Haarcascade/haarcascade_fullbody.xml')
 
 
-video_cap = cv2.VideoCapture('run.mp4')
+video_cap = cv2.VideoCapture('marathon.mp4')
 
 
 while True:
@@ -14,7 +14,7 @@ while True:
   gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
   
   if ret == True:
-    for (x,y,w,h) in body_classifier.detectMultiScale(gray,1.18,2):
+    for (x,y,w,h) in body_classifier.detectMultiScale(gray,1.18,):
       cv2.rectangle(frame,(x,y),(x+w,y+h),(255,0,255),4)
 
       cv2.imshow("Pedestrian Detection",frame)
