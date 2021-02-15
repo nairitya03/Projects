@@ -1,6 +1,11 @@
 import cv2 
 import numpy as np
+import pyfiglet 
 
+# ASCII Text Art
+print(pyfiglet.figlet_format("Optical Flow", font = "bulbhead" ))
+print(pyfiglet.figlet_format("Created By @FaLLenGuY", font = "digital" ))
+print("-"*70,"\n")
 
 #Parameters For Shi-Tomasi Corner detections
 

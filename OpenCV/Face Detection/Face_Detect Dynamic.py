@@ -1,14 +1,17 @@
-import time
 import cv2
-path=input("enter Image path: ")
+import pyfiglet 
 
+print(pyfiglet.figlet_format("Face Detect", font = "bulbhead" ))
+print(pyfiglet.figlet_format("Created By @FaLLenGuY", font = "digital" ))
+print("-"*70,"\n")
+
+
+path=input("Enter Image path \n>>> ")
 
 image = cv2.imread(path)
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 face_cascade = cv2.CascadeClassifier('F:\GitHub Repositories\Projects\OpenCV\Haarcascade\haarcascade_frontalface_default.xml')
-
-
 
 print("The number of faces found = ", len(face_cascade.detectMultiScale(gray,1.2,6)))
 

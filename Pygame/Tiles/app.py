@@ -3,6 +3,12 @@ from pygame import display,image
 import game_config as gc
 from animal import Animal
 from time import sleep
+import pyfiglet 
+
+# ASCII Text Art
+print(pyfiglet.figlet_format("Tiles", font = "bulbhead" ))
+print(pyfiglet.figlet_format("Created By @FaLLenGuY", font = "digital" ))
+print("-"*70,"\n")
 
 pygame.init()
 

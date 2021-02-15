@@ -1,5 +1,10 @@
 import cv2 
 import numpy as np
+import pyfiglet 
+
+print(pyfiglet.figlet_format("Car Detect", font = "bulbhead" ))
+print(pyfiglet.figlet_format("Created By @FaLLenGuY", font = "digital" ))
+print("-"*70,"\n")
 
 body_classifier = cv2.CascadeClassifier('F:\GitHub Repositories\Projects\OpenCV\Haarcascade\haarcascade_car.xml')
 

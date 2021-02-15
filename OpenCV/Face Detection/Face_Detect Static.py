@@ -1,4 +1,10 @@
 import cv2
+import pyfiglet 
+
+# ASCII Text Art
+print(pyfiglet.figlet_format("Face Detect", font = "bulbhead" ))
+print(pyfiglet.figlet_format("Created By @FaLLenGuY", font = "digital" ))
+print("-"*70,"\n")
 
 # Function for detection of face
 def detect():

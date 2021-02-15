@@ -1,5 +1,11 @@
 from pygame import mixer as mix
 import random
+import pyfiglet 
+
+# ASCII Text Art
+print(pyfiglet.figlet_format("Music Player", font = "bulbhead" ))
+print(pyfiglet.figlet_format("Created By @FaLLenGuY", font = "digital" ))
+print("-"*70,"\n")
 
 ## initialize the pygame mixer
 mix.init()

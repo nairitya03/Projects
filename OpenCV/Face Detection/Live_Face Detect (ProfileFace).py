@@ -1,11 +1,14 @@
 #importing Necessary Libray !!
-
 import cv2
+import pyfiglet 
 
+# ASCII Text Art
+print(pyfiglet.figlet_format("Live Face Detect", font = "bulbhead" ))
+print(pyfiglet.figlet_format("Created By @FaLLenGuY", font = "digital" ))
+print("-"*70,"\n")
 
 #Creating local Cascade classifiers !
 faceCascade = cv2.CascadeClassifier('F:\GitHub Repositories\Projects\OpenCV\haarcascade\haarcascade_profileface.xml')
-
 eyeCascade = cv2.CascadeClassifier('F:\GitHub Repositories\Projects\OpenCV\haarcascade\haarcascade_eye.xml')
 
 #Assigning the HARDWARE(WEBCAMERA) to the program !!

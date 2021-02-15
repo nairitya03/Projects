@@ -1,5 +1,11 @@
 import pygame 
 from gtts import gTTS
+import pyfiglet 
+
+# ASCII Text Art
+print(pyfiglet.figlet_format("Speaky", font = "bulbhead" ))
+print(pyfiglet.figlet_format("Created By @FaLLenGuY", font = "digital" ))
+print("-"*70,"\n")
 
 pygame.mixer.init()
 
