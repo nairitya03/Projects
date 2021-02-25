@@ -24,7 +24,7 @@ This is the directrory where all My projects go.Many more projects are on the wa
   - [Speech Recognition](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Speech%20Recognition)
   - [Zipper](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Zipper)
   - [Password Generator](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Password%20Generator)
-  - [Email Extractor](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Email%20Extractor)
+  - [Email Extractor](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Email%20extractor)
   - [KeyLogger](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/KeyLogger)  
   - [Photo Editor](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Photo%20Editor)
   - [Fancy Text](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Fancy%20Text)
