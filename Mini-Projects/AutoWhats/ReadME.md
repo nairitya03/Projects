@@ -1,7 +1,15 @@
-#Installation
-To install required modules,go to directory of download and open cmd/terminal there and run the following command
+# AutoWhats
+ 
+A simple WhatsApp Automation Script in Python 3 using [pywhatkit](https://pypi.org/project/pywhatkit/).
 
-- pip install -r requirement.txt
+***************
 
-if any error is shown try this command.
-- python3 -m pip install -r requirement.txt 
+### Usage
+
+**Note:- You should have [webwhatsapp](https://web.whatsapp.com/) connected with your whatsapp.**
+
+- Run AutoWhats.py.
+- Enter WhatsApp Number of the receiver.
+- Enter the message to be sent.
+- Enter the Time in HH:mm (24hr format).
+ 

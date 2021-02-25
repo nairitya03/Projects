@@ -9,10 +9,10 @@ Computer vision works in three basic steps:
 -----------------------------------
 This Repo holds few of My Projects based on Computer Vision.
 
-- [Face Detection](https://github.com/nairitya03/Projects/tree/master/OpenCV/Face%20Detection)
-- [Car Detection](https://github.com/nairitya03/Projects/tree/master/OpenCV/Car%20Detection)
-- [Pedestrian Detection](https://github.com/nairitya03/Projects/tree/master/OpenCV/Pedestrian%20Detection)
-- [Optical Flow Stimulation](https://github.com/nairitya03/Projects/tree/master/OpenCV/Optical%20Flow%20Stimulation)
+  - [Face Detection](https://github.com/nairitya03/Projects/tree/master/OpenCV/Face%20Detection)
+  - [Car Detection](https://github.com/nairitya03/Projects/tree/master/OpenCV/Car%20Detection)
+  - [Pedestrian Detection](https://github.com/nairitya03/Projects/tree/master/OpenCV/Pedestrian%20Detection)
+  - [Optical Flow Stimulation](https://github.com/nairitya03/Projects/tree/master/OpenCV/Optical%20Flow%20Stimulation)
 
 #### Installation
 

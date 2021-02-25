@@ -15,7 +15,7 @@ songs=[]
 
 ## user Song list
 while True:
-        print("Add Song ")
+        print("Add Songs ... ( Enter path of the file !! )")
         songs.append(input()+".mp3")
         add=input("ADD more songs! Y/N ")
         if add=='y':
@@ -53,7 +53,7 @@ def play():
                         break
         
                 while True:
-                        query = input("  Press 'P' to pause and Press 'R' to resume \n  Press 'N' for next song \n  Press 'E' exit player \n>>>")
+                        query = input("  Press 'P' to pause and Press 'R' to resume \n  Press 'N' for next song \n  Press 'E' exit player \n>>> ")
 
                         if (query == 'p'):
                                 mix.music.pause()

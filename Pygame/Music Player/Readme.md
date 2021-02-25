@@ -9,7 +9,8 @@
 - [x] Option to add songs to Playlist 
 - [ ] Create a way to include songs in playlist direct from internet
 
-### How to Run
-- Git Clone https://github.com/nairitya03/Projects/tree/master/Pygame/Music%20Player
-- Open Command Promt / Shell and run ``` Python3 -m pip install -r requirements.txt``` .
-- Once installed run the command in shell ``` python3 Music Player 1.2 .py``` .
+### Usage 
+- Run Music Player 1.2.py.
+- Add Songs (Complete path if files are not in same folder).
+- Choose whether to shuffle list of not.
+

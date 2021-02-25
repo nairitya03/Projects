@@ -1,0 +1,13 @@
+pyfiglet
+requests
+bs4
+pywhatkit
+wikipedia
+beautifulsoup4
+requests
+pyautogui
+speedtest
+pillow
+pynput
+speechrecognition
+tqdm
