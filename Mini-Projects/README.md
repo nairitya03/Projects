@@ -6,7 +6,7 @@ Feel free to clone this repository and make your own variations. If you would li
 ********
 ### Installation
 
-Before Running any Project Make Sure you have performed installation Process for it. Installation Process for each project is same.
+Before Running any Project Make Sure you have performed installation Process.
 
 - Install latest version of [Python](https://www.python.org/downloads/).
 - Go to directory of download and open cmd/terminal there.
