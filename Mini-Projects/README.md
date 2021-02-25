@@ -34,4 +34,4 @@ Before Running any Project Make Sure you have performed installation Process.
 - [Cafe Bill](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Cafe%20Bill)
 - ~[Instagram Scraper](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/%23Instagram%20Scraper)~
 - ~[Proxy Crawler](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/%23Proxy%20Crawler)~
-- ~[Wifi Password](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/%23Wifi%20Password)~
+- ~[Wifi Password](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/%23Wi-Fi%20password)~
