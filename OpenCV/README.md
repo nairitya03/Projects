@@ -22,15 +22,15 @@ This Repo holds few of My Projects based on Computer Vision.
 
 #### Usage 
 
-1. [Face Detection](https://github.com/nairitya03/Projects/tree/master/OpenCV/Face%20Detection) 
+- [Face Detection](https://github.com/nairitya03/Projects/tree/master/OpenCV/Face%20Detection) 
 	- Run Live Face Detect.py.
 	- Choose How to Detect Face {1.From Image, 2. From Live Feed}.
 
-2. [Car Detection](https://github.com/nairitya03/Projects/tree/master/OpenCV/Car%20Detection)
+- [Car Detection](https://github.com/nairitya03/Projects/tree/master/OpenCV/Car%20Detection)
 	- Run Car Detect.py.
 	- Choose How to Detect Car {1.From Video, 2. From Live Feed}.
 
-3. [Pedestrian Detection](https://github.com/nairitya03/Projects/tree/master/OpenCV/Pedestrian%20Detection)
+- [Pedestrian Detection](https://github.com/nairitya03/Projects/tree/master/OpenCV/Pedestrian%20Detection)
 	- Run Live Pedestrian Detection.py.
 	- Choose How to Detect Face {1.From Video, 2. From Live Feed }.
 
