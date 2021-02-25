@@ -21,17 +21,17 @@ Before Running any Project Make Sure you have performed installation Process.
 - [Speech Recognition](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Speech%20Recognition)
 - [Zipper](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Zipper)
 - [Password Generator](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Password%20Generator)
-- [Email Extractor](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Email%20Extractor)
+- [Email Extractor](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Email%20extractor)
 - [KeyLogger](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/KeyLogger)  
 - [Photo Editor](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Photo%20Editor)
 - [Fancy Text](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Fancy%20Text)
 - [Rock,Paper & Scissors](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Rock%2C%20Paper%20%26%20Scissors)
-- [YouTube Downloader](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/YouTube%20Downloader)
+- [YouTube Downloader](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Youtube%20Downloader)
 - [ToDo List](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/ToDo%20List)  
 - [Internet Speed Test](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Internet%20Speed%20Test)
 - [Turtle](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Turtle)
 - [Countdown Timer](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Countdown%20Timer)
 - [Cafe Bill](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Cafe%20Bill)
-- ~[Instagram Scraper](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Instagram%20Scraper)~
-- ~[Proxy Crawler](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Proxy%20Crawler)~
-- ~[Wifi Password](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Wifi%20Password)~
+- ~[Instagram Scraper](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/%23Instagram%20Scraper)~
+- ~[Proxy Crawler](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/%23Proxy%20Crawler)~
+- ~[Wifi Password](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/%23Wifi%20Password)~
