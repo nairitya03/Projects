@@ -1,6 +1,7 @@
-# [Rock, Paper & Scissors]()
+# Rock, Paper & Scissors
 
 Classic Rock, Paper & Scissors Game in terminal.
 
-## Usage
+## Usage
+
 - Run the Rock, Paper & Scissors.py.
