@@ -12,6 +12,7 @@ global faceCascade
 global eyeCascade
 
 # Creating local Cascade classifiers !
+
 faceCascade = cv2.CascadeClassifier('Haarcascade\haarcascade_frontalface_alt.xml')
 eyeCascade = cv2.CascadeClassifier('Haarcascade\haarcascade_eye.xml')
 

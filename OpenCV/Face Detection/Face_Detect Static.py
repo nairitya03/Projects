@@ -8,7 +8,7 @@ print("-"*70,"\n")
 
 # Function for detection of face
 def detect():
-    img_path=("sample\oned.jpg")
+    img_path=("Sample\OneD.jpg")
 
 
     # Create the haar cascade

@@ -9,7 +9,6 @@ print("-"*70,"\n")
 
 #Creating local Cascade classifiers !
 faceCascade = cv2.CascadeClassifier('F:\GitHub Repositories\Projects\OpenCV\haarcascade\haarcascade_frontalface_alt.xml')
-
 eyeCascade = cv2.CascadeClassifier('F:\GitHub Repositories\Projects\OpenCV\haarcascade\haarcascade_eye.xml')
 
 #Assigning the HARDWARE(WEBCAMERA) to the program !!
@@ -33,10 +32,8 @@ try:
 
 
     #Detecting Face !!
-    #faces = faceCascade.detectMultiScale(gray,1.3,4)
-        
-
-    #Detecting Eyes !!
+    ##faces = faceCascade.detectMultiScale(gray,1.3,4)
+    ##Detecting Eyes !!
     #eyes = eyeCascade.detectMultiScale(gray,1.3,6)
 
     #loop For Continuos Detection !!

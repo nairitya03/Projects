@@ -11,8 +11,9 @@ print("-"*70,"\n")
 body_classifier = cv2.CascadeClassifier('F:/GitHub Repositories/Projects/OpenCV/Haarcascade/haarcascade_fullbody.xml')
 
 
-video_cap = cv2.VideoCapture('marathon.mp4')
+video_cap = cv2.VideoCapture('sample.mp4')
 
+print (" Press ESC to exit ...")
 
 while True:
   ret,frame = video_cap.read()
