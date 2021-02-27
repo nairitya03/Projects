@@ -1,4 +1,4 @@
-# TILES
+# Classic TILES
 
 #### This is a classic match making game.
 
