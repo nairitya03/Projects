@@ -11,6 +11,6 @@ It uses the substitution of a letter by another one further in the alphabet.
 
 - Run the Caesar Decipher.py
 - To Encrypt press 1. When promted enter the message to encrypt and then enter key - { Number of shifts }.
-- To Decrypt press 2. when promted enter the encrypted message and then enter they key or leave blank to brute force.
+- To Decrypt press 2. When promted enter the encrypted message and then enter they key or leave blank to brute force.
 
 
