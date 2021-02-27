@@ -14,7 +14,7 @@ This Repository is Hosing of all the side projects I build. Some may not be comp
   
   - [Music Player ](https://github.com/nairitya03/Projects/tree/master/Pygame/Music%20Player)
   - [Text To Audio](https://github.com/nairitya03/Projects/tree/master/Pygame/Text%20To%20Audio)
-  - [Tiles](https://github.com/nairitya03/Projects/tree/master/Pygame/Tiles)
+  - [Tiles](https://github.com/nairitya03/Projects/tree/master/Pygame/Classic%20Tiles)
 
 - [Mini-Projects](https://github.com/nairitya03/Projects/tree/master/Mini-Projects)
   

@@ -5,7 +5,7 @@ This Repo holds few of My Projects based on [Pygame](https://www.pygame.org/wiki
   
   - [Music Player](https://github.com/nairitya03/Projects/tree/master/Pygame/Music%20Player)
   - [Text to Audio](https://github.com/nairitya03/Projects/tree/master/Pygame/Text%20to%20Audio)
-  - [Tiles](https://github.com/nairitya03/Projects/tree/master/Pygame/Tiles)
+  - [Tiles](https://github.com/nairitya03/Projects/tree/master/Pygame/Classic%20Tiles)
 
 #### Installation
 
