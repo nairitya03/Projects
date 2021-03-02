@@ -6,4 +6,4 @@ Also Check [Speech Recognition](https://github.com/nairitya03/Projects/tree/mast
 ## Usage
 - Run Speaky.py.
 - Enter the Name for Audio File.
-- Enter the Text.
+- Enter the Text to convert.
