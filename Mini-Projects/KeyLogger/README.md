@@ -6,4 +6,4 @@ Keystroke logging, often referred to as keylogging or keyboard capturing, is the
 
 ## Usage 
 
-- Run the KeyLogger.py in the background and it will capture every key-stroke made.
+- Run the KeyLogger.py in the background and it will capture every key-stroke made in foreground screen.
