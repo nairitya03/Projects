@@ -1,5 +1,5 @@
 # Projects
-This Repository is Hosing of all the side projects I build. Some may not be compatible with latest version of python. I don't update them accordingly with every new release. Feel free to clone this repository and make your own variations. If you would like to suggest changes of contribute you are Most Welcome.
+This Repository is Hosing of all the side projects I build. Some may not be compatible with latest version of python. I don't update them accordingly with every new release. Feel free to clone this repository and make your own variations. If you would like to suggest changes of contribute you are **Most Welcome**.
 
 *******
 ### Project List
