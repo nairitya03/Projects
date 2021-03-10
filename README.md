@@ -28,7 +28,7 @@ This Repository is Hosing of all the side projects I build. Some may not be comp
   - [KeyLogger](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/KeyLogger)  
   - [Photo Editor](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Photo%20Editor)
   - [Fancy Text](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Fancy%20Text)
-  - [Rock,Paper & Scissors](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Rock%2C%20Paper%20%26%20Scissors)
+  - [Rock, Paper & Scissors](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Rock%2C%20Paper%20%26%20Scissors)
   - [YouTube Downloader](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Youtube%20Downloader)
   - [ToDo List](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/ToDo%20List)  
   - [Internet Speed Test](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Internet%20Speed%20Test)
