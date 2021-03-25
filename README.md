@@ -5,7 +5,7 @@ This Repository is Hosing of all the side projects I build. Some may not be comp
 ### Project List
 - [OpenCV Projects](https://github.com/nairitya03/Projects/tree/master/OpenCV)
 
-  - [Live Face Detection](https://github.com/nairitya03/Projects/tree/master/OpenCV/Live%20Face%20Detect)
+  - [Live Face Detection](https://github.com/nairitya03/Projects/tree/master/OpenCV/Face%20Detection)
   - [Car Detection](https://github.com/nairitya03/Projects/tree/master/OpenCV/Car%20Detection)
   - [Pedestrian Detection](https://github.com/nairitya03/Projects/tree/master/OpenCV/Pedestrian%20Detection)
   - [Optical Flow Stimulation](https://github.com/nairitya03/Projects/tree/master/OpenCV/Optical%20Flow%20Stimulation)
