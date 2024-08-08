@@ -19,7 +19,7 @@ This Repository is Hosing of all the side projects I build. Some may not be comp
 - [Mini-Projects](https://github.com/nairitya03/Projects/tree/master/Mini-Projects)
   
   - [AutoWhats](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/AutoWhats)
-  - [Web Browser](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Web%20Browser)
+  - [CLI Web-Browser](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/cli%20Web-Browser)
   - [Caesar Decipher](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Caesar%20Decipher)
   - [Speech Recognition](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Speech%20Recognition)
   - [Zipper](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Zipper)
