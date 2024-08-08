@@ -14,7 +14,7 @@ This script uses the `netsh` command to extract Wi-Fi profiles and their corresp
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/wifi-password-extractor.git`
+1. Clone the repository: `git clone https://github.com/nairitya03/Projects/tree/master/Mini-Projects/wifi-password-extractor.git`
 2. Navigate to the repository directory: `cd wifi-password-extractor`
 3. Run the script: `python wifi_password_extractor.py`
 
