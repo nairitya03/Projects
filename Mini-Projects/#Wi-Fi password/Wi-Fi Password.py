@@ -1,21 +1,20 @@
 import subprocess as sb
 import time
 
+# Get a list of Wi-Fi profiles
+profiles = sb.check_output(['netsh', 'wlan', 'show', 'profiles']).decode('utf-8').split("\n")
+profiles = [i.split(":")[1][1:-1] for i in profiles if "All User Profile" in i]
 
-a = sb.check_output(['netsh','wlan','show','profiles']).decode('utf-8').split("\n")
-
-a = [i.split(":")[1][1:-1] for i in a if "All User Profile" in i]
-
-for i in a :
-    results = sb.check_output(['netsh','wlan','show','profiles',i,'key=clear']).decode('utf-8').split("\n")
-        
-results = [b.split(":")[1][1:-1] for b in results if "Key Content" in b]
-
-try:
-    print("{:<30}| {:<}".format(i,results[0]))
+# Iterate over each profile and extract the password
+for profile in profiles:
+    results = sb.check_output(['netsh', 'wlan', 'show', 'profiles', profile, 'key=clear']).decode('utf-8').split("\n")
+    password = [b.split(":")[1][1:-1] for b in results if "Key Content" in b]
     
-except IndexError:
-    print("{:<30}| {:<}".format(i,""))
+    # Handle cases where no password is found
+    if password:
+        print("{:<30}| {:<}".format(profile, password[0]))
+    else:
+        print("{:<30}| {:<}".format(profile, ""))
     
-    
+# Wait for 15 seconds
 time.sleep(15)
