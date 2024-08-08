@@ -1,4 +1,4 @@
-# Web Browser
+# CLI Web-Browser
 Tool to quickly Search anything with your favourite Web Browser.
 
 ## Usage 
