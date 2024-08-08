@@ -33,7 +33,7 @@ engine_num = int(input ("Enter your Search Engine"
 
 
 #  User input for Search String ...
-keyword = input ("Enter the Search Keyword:- ")
+keyword = input ("Enter the Search Query:- ")
 
 
         #  Forming search URL ...
