@@ -17,11 +17,11 @@ Before Running any Project Make Sure you have performed installation Process.
 
 #### Cybersec Tools/Projects
 - [Caesar Cyphier Decipher](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Caesar%20Decipher)
-- [Wifi Password](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/%23Wi-Fi%20password)
+- [Wifi Password](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/wifi-password-extractor)
 - [Password Generator](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Password%20Generator)
 - [Email Extractor](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Email%20extractor)
 - [KeyLogger](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/KeyLogger)  
-- [Web Browser](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Web%20Browser)
+- [Cli Web-Browser](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/cli-web-browser)
 - [Internet Speed Test](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Internet%20Speed%20Test)
 - [Zipper](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/Zipper)
 - ~[Instagram Scraper](https://github.com/nairitya03/Projects/tree/master/Mini-Projects/%23Instagram%20Scraper)~
